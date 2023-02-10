@@ -145,8 +145,8 @@
   },
   "cdktf": {
     "provider": {
-      "name": "<unknown>",
-      "version": "<unknown>"
+      "name": "registry.terraform.io/joyent/triton",
+      "version": "0.8.2"
     }
   },
   "resolutions": {
