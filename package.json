@@ -98,7 +98,7 @@
         "packageId": "HashiCorp.Cdktf.Providers.Triton"
       },
       "go": {
-        "moduleName": "github.com/cdktf/cdktf-provider-triton-go",
+        "moduleName": "github.com/Smithx10/cdktf-provider-triton-go",
         "packageName": "triton"
       }
     },
